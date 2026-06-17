@@ -1,0 +1,1002 @@
+[
+  {
+    "timestamp": "2026-04-01T04:45:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: I promised Nina the UIE proposal v3 by Friday Apr 10 15:00 IST; it needs migration timeline, rollout risks, and a rollback plan."
+  },
+  {
+    "timestamp": "2026-04-01T05:20:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: Keep Monday mornings clear for deep work; Slack after 11 unless Nina or production is on fire."
+  },
+  {
+    "timestamp": "2026-04-01T06:05:00Z",
+    "source": "slack",
+    "content": "#random Maya: Anyone want the extra sandwich in the pantry fridge?"
+  },
+  {
+    "timestamp": "2026-04-01T07:10:00Z",
+    "source": "whatsapp",
+    "content": "Ravi knows Nina's review style better than anyone; he was her ops lead before joining our side of the UIE work."
+  },
+  {
+    "timestamp": "2026-04-01T08:33:00Z",
+    "source": "slack",
+    "content": "#random Anika: Which room has the least aggressive air conditioning?"
+  },
+  {
+    "timestamp": "2026-04-01T08:35:00Z",
+    "source": "gmail",
+    "content": "Nina <nina@northstar.example>: Can you send the UIE proposal before Monday ELT? I need the risk section, not a teaser deck."
+  },
+  {
+    "timestamp": "2026-04-01T08:48:00Z",
+    "source": "whatsapp",
+    "content": "Maya: Coffee machine is making the dramatic steam noise again."
+  },
+  {
+    "timestamp": "2026-04-01T10:30:00Z",
+    "source": "gmail",
+    "content": "Newsletter: five links about AI agents, three of which are probably the same article."
+  },
+  {
+    "timestamp": "2026-04-01T12:00:00Z",
+    "source": "slack",
+    "content": "#uieng Aarav: I prefer one-page decision memos over decks for UIE. Put the recommendation first, tradeoffs second."
+  },
+  {
+    "timestamp": "2026-04-01T13:14:00Z",
+    "source": "slack",
+    "content": "#random Cedric: Which room has the least aggressive air conditioning?"
+  },
+  {
+    "timestamp": "2026-04-01T14:30:00Z",
+    "source": "slack",
+    "content": "#uieng Maya: Aarav, I still need your feedback on onboarding empty states before I cut the prototype Wednesday."
+  },
+  {
+    "timestamp": "2026-04-01T15:27:00Z",
+    "source": "slack",
+    "content": "#team Aarav: For incident reviews, lead with specific evidence."
+  },
+  {
+    "timestamp": "2026-04-01T16:45:00Z",
+    "source": "whatsapp",
+    "content": "Karan: The elevator skipped 7 twice. I am choosing not to take it personally."
+  },
+  {
+    "timestamp": "2026-04-01T23:18:00Z",
+    "source": "slack",
+    "content": "#team Aarav: For status updates, lead with customer impact."
+  },
+  {
+    "timestamp": "2026-04-02T01:47:00Z",
+    "source": "slack",
+    "content": "#random Maya: Lunch is late today."
+  },
+  {
+    "timestamp": "2026-04-02T03:39:00Z",
+    "source": "gmail",
+    "content": "Anika: Friendly nudge on the export screenshots."
+  },
+  {
+    "timestamp": "2026-04-02T03:50:00Z",
+    "source": "calendar",
+    "content": "Focus block Apr 11 18:00 IST for UIE risk table."
+  },
+  {
+    "timestamp": "2026-04-02T04:15:00Z",
+    "source": "notion",
+    "content": "UIE appendix still missing data retention answer, SOC2 wording, and procurement estimate."
+  },
+  {
+    "timestamp": "2026-04-02T05:12:00Z",
+    "source": "gmail",
+    "content": "Newsletter: async work links for the week."
+  },
+  {
+    "timestamp": "2026-04-02T05:18:00Z",
+    "source": "slack",
+    "content": "#random Jules: Moving this casual chat out of the planning channel."
+  },
+  {
+    "timestamp": "2026-04-02T05:40:00Z",
+    "source": "sms",
+    "content": "Delivery update: your order is out for delivery between 14:00 and 16:00."
+  },
+  {
+    "timestamp": "2026-04-02T06:08:00Z",
+    "source": "notion",
+    "content": "Collect final owner names for launch checklist."
+  },
+  {
+    "timestamp": "2026-04-02T07:15:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: No cilantro in lunch orders, please. It ruins the whole afternoon for me."
+  },
+  {
+    "timestamp": "2026-04-02T09:00:00Z",
+    "source": "slack",
+    "content": "#uieng Maya: I can sanity-check the onboarding flow; I led the old Capsule onboarding team before consulting here."
+  },
+  {
+    "timestamp": "2026-04-02T11:05:00Z",
+    "source": "gmail",
+    "content": "Cedric <cedric@northstar.example>: Procurement numbers for UIE are due Thursday; tell me if you need license assumptions."
+  },
+  {
+    "timestamp": "2026-04-02T12:22:00Z",
+    "source": "gmail",
+    "content": "Workspace digest: no action requested."
+  },
+  {
+    "timestamp": "2026-04-02T13:25:00Z",
+    "source": "chrome_extension",
+    "content": "Saved link: essay about why meeting notes should have fewer adjectives."
+  },
+  {
+    "timestamp": "2026-04-02T15:05:00Z",
+    "source": "calendar",
+    "content": "Engineering leadership standup Apr 13 09:30 IST. Agenda includes ingest latency and UIE rollout date."
+  },
+  {
+    "timestamp": "2026-04-02T19:23:00Z",
+    "source": "slack",
+    "content": "#growth Dev: Aarav, can you send the owner table before the next sync?"
+  },
+  {
+    "timestamp": "2026-04-03T02:09:00Z",
+    "source": "gmail",
+    "content": "Anika: Friendly nudge on the redlines."
+  },
+  {
+    "timestamp": "2026-04-03T04:30:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: Draft reply to Southridge SOW. We promised redlines Friday and I still need Priya's clause 8 note."
+  },
+  {
+    "timestamp": "2026-04-03T05:45:00Z",
+    "source": "notion",
+    "content": "Aarav writes best before calls; avoid scheduling proposal drafting blocks after 16:00."
+  },
+  {
+    "timestamp": "2026-04-03T07:30:00Z",
+    "source": "gmail",
+    "content": "Receipt from City Beans for INR 260."
+  },
+  {
+    "timestamp": "2026-04-03T08:10:00Z",
+    "source": "reminder",
+    "content": "Renew car insurance before Apr 15 18:00 IST. Portal locks renewals during overnight maintenance."
+  },
+  {
+    "timestamp": "2026-04-03T10:00:00Z",
+    "source": "calendar",
+    "content": "Southridge SOW negotiation Apr 14 16:00 IST with Priya and legal."
+  },
+  {
+    "timestamp": "2026-04-03T12:25:00Z",
+    "source": "whatsapp",
+    "content": "Karan: Brother privileges include school pickups, but not finding documents in your Downloads folder."
+  },
+  {
+    "timestamp": "2026-04-03T14:10:00Z",
+    "source": "slack",
+    "content": "#music Dev: Today's focus playlist is mostly piano and suspiciously loud drums."
+  },
+  {
+    "timestamp": "2026-04-03T18:34:00Z",
+    "source": "slack",
+    "content": "#random Maya: Moving this casual chat out of the planning channel."
+  },
+  {
+    "timestamp": "2026-04-03T21:05:00Z",
+    "source": "slack",
+    "content": "#random Jules: Thanks, resolved."
+  },
+  {
+    "timestamp": "2026-04-03T23:25:00Z",
+    "source": "whatsapp",
+    "content": "Priya: Coffee machine is making the dramatic steam noise again."
+  },
+  {
+    "timestamp": "2026-04-04T01:03:00Z",
+    "source": "gmail",
+    "content": "Ops Calendar: Updated invite attached for demo prep."
+  },
+  {
+    "timestamp": "2026-04-04T01:23:00Z",
+    "source": "slack",
+    "content": "#random Rhea: Which room has the least aggressive air conditioning?"
+  },
+  {
+    "timestamp": "2026-04-04T03:55:00Z",
+    "source": "whatsapp",
+    "content": "Pari's school bus-change form is due Apr 16; Karan has the immunization scan."
+  },
+  {
+    "timestamp": "2026-04-04T05:15:00Z",
+    "source": "calendar",
+    "content": "Parent-teacher call for Pari Apr 15 17:30 IST. Join from phone if still commuting."
+  },
+  {
+    "timestamp": "2026-04-04T05:52:00Z",
+    "source": "notion",
+    "content": "Aarav does not want duplicate pings across Slack and WhatsApp."
+  },
+  {
+    "timestamp": "2026-04-04T06:22:00Z",
+    "source": "notion",
+    "content": "Aarav prefers agenda-first meetings."
+  },
+  {
+    "timestamp": "2026-04-04T06:30:00Z",
+    "source": "gmail",
+    "content": "Aarav to Nina: I will keep UIE crisp; you said you prefer a recommendation plus the two strongest risks."
+  },
+  {
+    "timestamp": "2026-04-04T08:43:00Z",
+    "source": "gmail",
+    "content": "Newsletter: async work links for the week."
+  },
+  {
+    "timestamp": "2026-04-04T09:20:00Z",
+    "source": "whatsapp",
+    "content": "Priya: The chai place downstairs has cardamom back."
+  },
+  {
+    "timestamp": "2026-04-04T11:40:00Z",
+    "source": "slack",
+    "content": "#demo Anika: After the admin export demo, please send proof that CSV permissions respect viewer-only roles."
+  },
+  {
+    "timestamp": "2026-04-04T13:33:00Z",
+    "source": "sms",
+    "content": "Your ride receipt is ready."
+  },
+  {
+    "timestamp": "2026-04-04T13:35:00Z",
+    "source": "gmail",
+    "content": "Nina: Please loop Ravi on external-safe diagrams. He knows which Northstar reviewers are allergic to architecture sprawl."
+  },
+  {
+    "timestamp": "2026-04-04T16:05:00Z",
+    "source": "gmail",
+    "content": "Workspace digest: 12 documents were updated this week. No action requested."
+  },
+  {
+    "timestamp": "2026-04-05T04:05:00Z",
+    "source": "gmail",
+    "content": "Ravi <ravi@northstar.example>: I can approve data-room access once Aarav confirms which UIE diagrams are external-safe."
+  },
+  {
+    "timestamp": "2026-04-05T05:25:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: I hate back-to-back calls without ten minutes to reset. Please keep buffers when possible."
+  },
+  {
+    "timestamp": "2026-04-05T07:00:00Z",
+    "source": "gmail",
+    "content": "Rhea: Interview calibration moved to Apr 15 13:00 IST; I need the rubric before invites go out."
+  },
+  {
+    "timestamp": "2026-04-05T08:09:00Z",
+    "source": "notion",
+    "content": "Confirm which UIE diagrams are external-safe."
+  },
+  {
+    "timestamp": "2026-04-05T08:45:00Z",
+    "source": "slack",
+    "content": "#random Rhea: Which room has the least aggressive air conditioning?"
+  },
+  {
+    "timestamp": "2026-04-05T10:15:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: I owe Mom the cardiology report summary before her Tuesday appointment."
+  },
+  {
+    "timestamp": "2026-04-05T11:51:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: Please avoid late-night calls unless there is a real deadline."
+  },
+  {
+    "timestamp": "2026-04-05T12:03:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: Need to handle insurance renewal before it slips again."
+  },
+  {
+    "timestamp": "2026-04-05T12:05:00Z",
+    "source": "slack",
+    "content": "#finance Rhea: Priya and I calibrated senior interview evidence last quarter; use the same bar for staff-level candidates."
+  },
+  {
+    "timestamp": "2026-04-05T15:50:00Z",
+    "source": "notion",
+    "content": "Random note: try the new dosa place near Gate 3 when there is no lunch rush."
+  },
+  {
+    "timestamp": "2026-04-05T16:53:00Z",
+    "source": "slack",
+    "content": "#team Aarav: For customer notes, lead with decision needed."
+  },
+  {
+    "timestamp": "2026-04-05T17:57:00Z",
+    "source": "sms",
+    "content": "OTP is 492118. Do not share it."
+  },
+  {
+    "timestamp": "2026-04-05T19:04:00Z",
+    "source": "chrome_extension",
+    "content": "Saved link: essay about meeting notes."
+  },
+  {
+    "timestamp": "2026-04-05T19:10:00Z",
+    "source": "gmail",
+    "content": "Newsletter: async work links for the week."
+  },
+  {
+    "timestamp": "2026-04-06T04:20:00Z",
+    "source": "slack",
+    "content": "#growth Sonal: Can you send the Q2 launch checklist by EOD? I need owners, not just phases."
+  },
+  {
+    "timestamp": "2026-04-06T05:40:00Z",
+    "source": "calendar",
+    "content": "Mom cardiology appointment Apr 14 09:00 IST; send report summary tonight."
+  },
+  {
+    "timestamp": "2026-04-06T07:30:00Z",
+    "source": "slack",
+    "content": "#team Aarav: For candidate debriefs, I prefer specific evidence over vibes. Quote the work sample."
+  },
+  {
+    "timestamp": "2026-04-06T09:05:00Z",
+    "source": "gmail",
+    "content": "Promo: last day for the productivity webinar replay and certificate download."
+  },
+  {
+    "timestamp": "2026-04-06T11:45:00Z",
+    "source": "gmail",
+    "content": "Legal Desk: Contract renewal for VectorDB Pro requires owner confirmation by Apr 17."
+  },
+  {
+    "timestamp": "2026-04-06T13:15:00Z",
+    "source": "calendar",
+    "content": "Dentist reschedule hold Apr 16 08:00 IST, pending confirmation from Dr. Shah's office."
+  },
+  {
+    "timestamp": "2026-04-06T14:35:00Z",
+    "source": "gmail",
+    "content": "Receipt attached for your recent purchase."
+  },
+  {
+    "timestamp": "2026-04-06T16:40:00Z",
+    "source": "slack",
+    "content": "#random Jules: Found a typo in the cafeteria sign and now I cannot unsee it."
+  },
+  {
+    "timestamp": "2026-04-06T20:00:00Z",
+    "source": "calendar",
+    "content": "Focus block scheduled for Apr 14 15:00 IST."
+  },
+  {
+    "timestamp": "2026-04-07T01:18:00Z",
+    "source": "chrome_extension",
+    "content": "Saved link: a long note-taking app comparison."
+  },
+  {
+    "timestamp": "2026-04-07T03:45:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: Pay the apartment maintenance before Apr 14 or the late fee starts."
+  },
+  {
+    "timestamp": "2026-04-07T05:10:00Z",
+    "source": "calendar",
+    "content": "Apartment maintenance visit Apr 12 11:00 IST. Someone needs to be home."
+  },
+  {
+    "timestamp": "2026-04-07T05:38:00Z",
+    "source": "slack",
+    "content": "#random Dev: Thanks, resolved."
+  },
+  {
+    "timestamp": "2026-04-07T05:53:00Z",
+    "source": "whatsapp",
+    "content": "Karan: Coffee machine is making the dramatic steam noise again."
+  },
+  {
+    "timestamp": "2026-04-07T06:50:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: Friday evenings are family time unless a customer deadline is truly immovable."
+  },
+  {
+    "timestamp": "2026-04-07T07:54:00Z",
+    "source": "calendar",
+    "content": "Working session scheduled for Apr 13 12:30 IST."
+  },
+  {
+    "timestamp": "2026-04-07T08:25:00Z",
+    "source": "gmail",
+    "content": "Rhea: I need the senior/junior scoring split by Apr 12 so recruiting can schedule interviews next week."
+  },
+  {
+    "timestamp": "2026-04-07T09:53:00Z",
+    "source": "gmail",
+    "content": "Promo: webinar replay expires tomorrow."
+  },
+  {
+    "timestamp": "2026-04-07T10:35:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: Pari calls Cedric 'the spreadsheet uncle' because he fixed her science fair chart last year."
+  },
+  {
+    "timestamp": "2026-04-07T11:59:00Z",
+    "source": "gmail",
+    "content": "Northstar Assistant: Updated invite attached for calibration."
+  },
+  {
+    "timestamp": "2026-04-07T12:00:00Z",
+    "source": "whatsapp",
+    "content": "Anika: Found the missing HDMI cable. It was in the snack drawer somehow."
+  },
+  {
+    "timestamp": "2026-04-07T14:51:00Z",
+    "source": "chrome_extension",
+    "content": "Saved link: a long note-taking app comparison."
+  },
+  {
+    "timestamp": "2026-04-07T15:20:00Z",
+    "source": "slack",
+    "content": "#ops Dev: Please close the staging incident doc today. Postmortem is still blank under prevention."
+  },
+  {
+    "timestamp": "2026-04-07T18:55:00Z",
+    "source": "chrome_extension",
+    "content": "Saved link: calendar color theory."
+  },
+  {
+    "timestamp": "2026-04-07T23:51:00Z",
+    "source": "sms",
+    "content": "Package delivered to front desk."
+  },
+  {
+    "timestamp": "2026-04-08T01:04:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: Need to handle school upload before it slips again."
+  },
+  {
+    "timestamp": "2026-04-08T03:43:00Z",
+    "source": "gmail",
+    "content": "Promo: webinar replay expires tomorrow."
+  },
+  {
+    "timestamp": "2026-04-08T04:05:00Z",
+    "source": "gmail",
+    "content": "Dr. Shah's office: Please confirm the Apr 16 dental reschedule by Apr 14 10:00 IST."
+  },
+  {
+    "timestamp": "2026-04-08T05:35:00Z",
+    "source": "slack",
+    "content": "#uieng Maya: Design critique is Tue Apr 14 11:30 IST. Please bring the empty-state storyboard, not just screenshots."
+  },
+  {
+    "timestamp": "2026-04-08T07:10:00Z",
+    "source": "notion",
+    "content": "Nina dislikes architecture-heavy docs; she reads risk, rollout plan, and decision owner first."
+  },
+  {
+    "timestamp": "2026-04-08T08:55:00Z",
+    "source": "slack",
+    "content": "#team Dev: Aarav, can you add owner names to the launch checklist before standup?"
+  },
+  {
+    "timestamp": "2026-04-08T11:10:00Z",
+    "source": "gmail",
+    "content": "Receipt attached for your recent purchase."
+  },
+  {
+    "timestamp": "2026-04-08T11:25:00Z",
+    "source": "notion",
+    "content": "Southridge procurement sponsor Jules reports to Priya's former manager, so legal tone matters."
+  },
+  {
+    "timestamp": "2026-04-08T13:34:00Z",
+    "source": "chrome_extension",
+    "content": "Saved link: a long note-taking app comparison."
+  },
+  {
+    "timestamp": "2026-04-08T14:45:00Z",
+    "source": "gmail",
+    "content": "Webinar reminder: join us for a panel on distributed teams and asynchronous rituals."
+  },
+  {
+    "timestamp": "2026-04-08T16:57:00Z",
+    "source": "slack",
+    "content": "#uieng Dev: Aarav, can you send the sanitized diagram before the next sync?"
+  },
+  {
+    "timestamp": "2026-04-08T20:38:00Z",
+    "source": "slack",
+    "content": "#random Sonal: Lunch is late today."
+  },
+  {
+    "timestamp": "2026-04-08T23:22:00Z",
+    "source": "chrome_extension",
+    "content": "Saved link: calendar color theory."
+  },
+  {
+    "timestamp": "2026-04-09T03:55:00Z",
+    "source": "notion",
+    "content": "Hiring rubric draft needs explicit senior vs junior signals and a scoring table."
+  },
+  {
+    "timestamp": "2026-04-09T05:30:00Z",
+    "source": "calendar",
+    "content": "Weekly hiring sync Apr 14 10:00 IST; candidate packets due before the meeting."
+  },
+  {
+    "timestamp": "2026-04-09T06:40:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: I like reminders with a concrete next action, not just 'work on proposal'."
+  },
+  {
+    "timestamp": "2026-04-09T07:55:00Z",
+    "source": "slack",
+    "content": "#uieng Aarav: Ignore my earlier deadline note. UIE proposal is now due Monday Apr 13 15:00 IST, not Friday Apr 10."
+  },
+  {
+    "timestamp": "2026-04-09T08:21:00Z",
+    "source": "sms",
+    "content": "Your ride receipt is ready."
+  },
+  {
+    "timestamp": "2026-04-09T08:35:00Z",
+    "source": "calendar",
+    "content": "Calendar update: UIE proposal review with Nina moved from Apr 10 16:00 to Apr 13 14:30 IST. Location: Northstar Meet."
+  },
+  {
+    "timestamp": "2026-04-09T09:10:00Z",
+    "source": "slack",
+    "content": "#random Sonal: Lunch is late today."
+  },
+  {
+    "timestamp": "2026-04-09T10:20:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: Need to send the school payment receipt before I forget again."
+  },
+  {
+    "timestamp": "2026-04-09T10:56:00Z",
+    "source": "whatsapp",
+    "content": "Maya: Coffee machine is making the dramatic steam noise again."
+  },
+  {
+    "timestamp": "2026-04-09T11:24:00Z",
+    "source": "whatsapp",
+    "content": "Karan: Coffee machine is making the dramatic steam noise again."
+  },
+  {
+    "timestamp": "2026-04-09T12:50:00Z",
+    "source": "chrome_extension",
+    "content": "Saved link: pricing page for a note-taking app Aarav probably does not need."
+  },
+  {
+    "timestamp": "2026-04-09T13:39:00Z",
+    "source": "whatsapp",
+    "content": "Priya: Coffee machine is making the dramatic steam noise again."
+  },
+  {
+    "timestamp": "2026-04-09T13:43:00Z",
+    "source": "gmail",
+    "content": "Ops Calendar: Updated invite attached for vendor renewal."
+  },
+  {
+    "timestamp": "2026-04-09T14:46:00Z",
+    "source": "gmail",
+    "content": "Promo: webinar replay expires tomorrow."
+  },
+  {
+    "timestamp": "2026-04-09T15:10:00Z",
+    "source": "slack",
+    "content": "#infra Dev: Retry-budget decision needs to be written up before we claim sub-2s retrieval in the proposal."
+  },
+  {
+    "timestamp": "2026-04-09T15:10:00Z",
+    "source": "whatsapp",
+    "content": "Priya: Coffee machine is making the dramatic steam noise again."
+  },
+  {
+    "timestamp": "2026-04-09T22:03:00Z",
+    "source": "sms",
+    "content": "Your ride receipt is ready."
+  },
+  {
+    "timestamp": "2026-04-10T03:20:00Z",
+    "source": "slack",
+    "content": "#random Dev: Moving this casual chat out of the planning channel."
+  },
+  {
+    "timestamp": "2026-04-10T04:04:00Z",
+    "source": "whatsapp",
+    "content": "Sonal: Coffee machine is making the dramatic steam noise again."
+  },
+  {
+    "timestamp": "2026-04-10T04:10:00Z",
+    "source": "gmail",
+    "content": "Priya: Friendly nudge on the Southridge redlines you said you would send this week."
+  },
+  {
+    "timestamp": "2026-04-10T05:25:00Z",
+    "source": "gmail",
+    "content": "Nina: One correction: call it Unified Intelligence Engine in the external proposal. UIE is fine internally."
+  },
+  {
+    "timestamp": "2026-04-10T06:30:00Z",
+    "source": "gmail",
+    "content": "Cedric: Do not use the old $42k procurement estimate. Updated UIE licensing estimate is $48.5k for year one."
+  },
+  {
+    "timestamp": "2026-04-10T08:00:00Z",
+    "source": "gmail",
+    "content": "Anika: My admin export concern comes from the Finley account incident, the one Dev helped contain."
+  },
+  {
+    "timestamp": "2026-04-10T09:40:00Z",
+    "source": "slack",
+    "content": "#infra Dev: Ingest migration review moved to Monday 11:00 IST because Arun is out Tuesday."
+  },
+  {
+    "timestamp": "2026-04-10T10:10:00Z",
+    "source": "gmail",
+    "content": "Workspace digest: no action requested."
+  },
+  {
+    "timestamp": "2026-04-10T11:20:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: If Cedric hasn't sent final procurement numbers by Thursday noon, nudge him again."
+  },
+  {
+    "timestamp": "2026-04-10T13:30:00Z",
+    "source": "whatsapp",
+    "content": "Sonal: If anyone sees a blue notebook, it is mine. Or maybe not mine."
+  },
+  {
+    "timestamp": "2026-04-10T15:00:00Z",
+    "source": "slack",
+    "content": "#random Aarav: Default me to vegetarian lunch. Paneer is fine, mushroom is not."
+  },
+  {
+    "timestamp": "2026-04-10T15:31:00Z",
+    "source": "chrome_extension",
+    "content": "Saved link: essay about meeting notes."
+  },
+  {
+    "timestamp": "2026-04-10T17:28:00Z",
+    "source": "sms",
+    "content": "Your ride receipt is ready."
+  },
+  {
+    "timestamp": "2026-04-10T17:49:00Z",
+    "source": "slack",
+    "content": "#uieng Dev: Aarav, can you send the sanitized diagram before the next sync?"
+  },
+  {
+    "timestamp": "2026-04-10T17:52:00Z",
+    "source": "slack",
+    "content": "#random Rhea: Which room has the least aggressive air conditioning?"
+  },
+  {
+    "timestamp": "2026-04-11T00:04:00Z",
+    "source": "calendar",
+    "content": "Focus block scheduled for Apr 14 12:30 IST."
+  },
+  {
+    "timestamp": "2026-04-11T04:15:00Z",
+    "source": "slack",
+    "content": "#legal Priya: Southridge clause 8 is approved now. The SOW is no longer blocked on legal."
+  },
+  {
+    "timestamp": "2026-04-11T05:27:00Z",
+    "source": "slack",
+    "content": "#random Sonal: Lunch is late today."
+  },
+  {
+    "timestamp": "2026-04-11T05:35:00Z",
+    "source": "notion",
+    "content": "Add failure modes to the UIE proposal before Nina review."
+  },
+  {
+    "timestamp": "2026-04-11T07:15:00Z",
+    "source": "gmail",
+    "content": "Northstar ELT Assistant: Nina will discuss UIE risk at Apr 13 15:30 IST ELT prep if she receives the appendix first."
+  },
+  {
+    "timestamp": "2026-04-11T08:00:00Z",
+    "source": "gmail",
+    "content": "Northstar ELT Assistant: Please send Nina the UIE appendix at least one hour before ELT prep."
+  },
+  {
+    "timestamp": "2026-04-11T08:01:00Z",
+    "source": "gmail",
+    "content": "Workspace digest: no action requested."
+  },
+  {
+    "timestamp": "2026-04-11T09:25:00Z",
+    "source": "slack",
+    "content": "#ops Dev: Ravi will answer faster if the ask comes from Nina's thread, not a fresh DM."
+  },
+  {
+    "timestamp": "2026-04-11T11:45:00Z",
+    "source": "slack",
+    "content": "#product Maya: Need the empty-state copy choices by Tuesday morning or I will pick the safest default."
+  },
+  {
+    "timestamp": "2026-04-11T13:30:00Z",
+    "source": "calendar",
+    "content": "Calendar cancellation: Apr 12 UIE work block removed. Conflict with apartment maintenance visit."
+  },
+  {
+    "timestamp": "2026-04-11T14:36:00Z",
+    "source": "gmail",
+    "content": "Workspace digest: no action requested."
+  },
+  {
+    "timestamp": "2026-04-11T15:10:00Z",
+    "source": "slack",
+    "content": "#random Cedric: Monsoon clouds look cinematic from the east conference room."
+  },
+  {
+    "timestamp": "2026-04-11T17:13:00Z",
+    "source": "slack",
+    "content": "#random Sonal: Lunch is late today."
+  },
+  {
+    "timestamp": "2026-04-11T17:24:00Z",
+    "source": "notion",
+    "content": "Aarav does not want duplicate pings across Slack and WhatsApp."
+  },
+  {
+    "timestamp": "2026-04-11T19:27:00Z",
+    "source": "whatsapp",
+    "content": "Karan: Coffee machine is making the dramatic steam noise again."
+  },
+  {
+    "timestamp": "2026-04-12T04:20:00Z",
+    "source": "gmail",
+    "content": "Ravi: Data room access is waiting on external-safe diagrams, not on procurement anymore."
+  },
+  {
+    "timestamp": "2026-04-12T05:15:00Z",
+    "source": "gmail",
+    "content": "Southridge procurement: Please send final SOW redlines before Apr 14 negotiation."
+  },
+  {
+    "timestamp": "2026-04-12T06:30:00Z",
+    "source": "slack",
+    "content": "#demo Anika: Please follow up after the admin export demo with screenshots and role-permission notes."
+  },
+  {
+    "timestamp": "2026-04-12T07:20:00Z",
+    "source": "slack",
+    "content": "#ops Dev: Staging incident prevention section now has draft bullets; Aarav only needs to review and close."
+  },
+  {
+    "timestamp": "2026-04-12T08:50:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: Upload reimbursement receipts from the Northstar trip before finance closes the April batch."
+  },
+  {
+    "timestamp": "2026-04-12T10:00:00Z",
+    "source": "whatsapp",
+    "content": "Mom: Karan said you are juggling too much this week. He can do pharmacy pickup, not school pickup."
+  },
+  {
+    "timestamp": "2026-04-12T11:30:00Z",
+    "source": "notion",
+    "content": "After UIE proposal delivery, create an internal FAQ from the objections Nina raises."
+  },
+  {
+    "timestamp": "2026-04-12T11:46:00Z",
+    "source": "slack",
+    "content": "#team Priya: Can we move standup by 30 minutes? Calendar is messy today."
+  },
+  {
+    "timestamp": "2026-04-12T13:45:00Z",
+    "source": "gmail",
+    "content": "Receipt from City Beans for INR 310."
+  },
+  {
+    "timestamp": "2026-04-12T15:00:00Z",
+    "source": "gmail",
+    "content": "Aarav to Rhea: For junior interviews, I want a debugging exercise before any system design talk."
+  },
+  {
+    "timestamp": "2026-04-13T00:09:00Z",
+    "source": "slack",
+    "content": "#random Nina: Which room has the least aggressive air conditioning?"
+  },
+  {
+    "timestamp": "2026-04-13T02:23:00Z",
+    "source": "slack",
+    "content": "#random Nina: Which room has the least aggressive air conditioning?"
+  },
+  {
+    "timestamp": "2026-04-13T03:05:00Z",
+    "source": "slack",
+    "content": "#finance Rhea: Hiring rubric was due Apr 12. Please send the senior/junior scoring split by noon so interviews can be scheduled."
+  },
+  {
+    "timestamp": "2026-04-13T04:00:00Z",
+    "source": "calendar",
+    "content": "Engineering leadership standup Apr 13 09:30 IST. Agenda includes ingest latency and UIE rollout date."
+  },
+  {
+    "timestamp": "2026-04-13T05:30:00Z",
+    "source": "calendar",
+    "content": "Ingest migration review Apr 13 11:00 IST. Decide retry budget before proposal claims are finalized."
+  },
+  {
+    "timestamp": "2026-04-13T06:10:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: Need to finish finance hiring rubric tonight; senior AI engineer loop needs system design + evals, junior needs debugging + data sense."
+  },
+  {
+    "timestamp": "2026-04-13T07:00:00Z",
+    "source": "calendar",
+    "content": "UIE appendix working block scheduled for Apr 13 12:30 IST."
+  },
+  {
+    "timestamp": "2026-04-13T07:45:00Z",
+    "source": "slack",
+    "content": "#uieng Aarav: If Ravi does not confirm data-room access by EOD, ping him before Nina's proposal review."
+  },
+  {
+    "timestamp": "2026-04-13T09:00:00Z",
+    "source": "calendar",
+    "content": "UIE proposal review with Nina Apr 13 14:30 IST. Location: Northstar Meet."
+  },
+  {
+    "timestamp": "2026-04-13T09:04:00Z",
+    "source": "chrome_extension",
+    "content": "Saved link: pricing page for a transcription tool."
+  },
+  {
+    "timestamp": "2026-04-13T09:40:00Z",
+    "source": "whatsapp",
+    "content": "Karan: I cannot pick Pari on Apr 15 after all. Flight moved. You need to leave by 17:20 for the parent-teacher call."
+  },
+  {
+    "timestamp": "2026-04-13T10:20:00Z",
+    "source": "whatsapp",
+    "content": "Mom: Remind me after dinner if I forget to send the cardiology report photo."
+  },
+  {
+    "timestamp": "2026-04-13T10:31:00Z",
+    "source": "slack",
+    "content": "#team Dev: Can we move the handoff by 30 minutes? Calendar is messy today."
+  },
+  {
+    "timestamp": "2026-04-13T12:05:00Z",
+    "source": "slack",
+    "content": "#ops Dev: Incident doc is almost done, but prevention owner and rollback drill date still need you."
+  },
+  {
+    "timestamp": "2026-04-13T16:22:00Z",
+    "source": "gmail",
+    "content": "Promo: webinar replay expires tomorrow."
+  },
+  {
+    "timestamp": "2026-04-13T18:23:00Z",
+    "source": "slack",
+    "content": "#random Cedric: Which room has the least aggressive air conditioning?"
+  },
+  {
+    "timestamp": "2026-04-14T00:58:00Z",
+    "source": "sms",
+    "content": "OTP is 492118. Do not share it."
+  },
+  {
+    "timestamp": "2026-04-14T01:52:00Z",
+    "source": "slack",
+    "content": "#ops Dev: Aarav, can you send the prevention note before the next sync?"
+  },
+  {
+    "timestamp": "2026-04-14T03:45:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: Pari's form says Apr 18, but school wants upload by Apr 16 if we need the bus route changed."
+  },
+  {
+    "timestamp": "2026-04-14T04:00:00Z",
+    "source": "gmail",
+    "content": "Dr. Shah's office: If you cannot confirm by Apr 14 morning, we will release the Apr 16 dental slot."
+  },
+  {
+    "timestamp": "2026-04-14T06:00:00Z",
+    "source": "calendar",
+    "content": "UIE design critique Apr 14 11:30 IST. Bring empty-state storyboard."
+  },
+  {
+    "timestamp": "2026-04-14T07:30:00Z",
+    "source": "slack",
+    "content": "#finance Rhea: Interview calibration can happen Apr 15, but only if the rubric lands Apr 13."
+  },
+  {
+    "timestamp": "2026-04-14T08:04:00Z",
+    "source": "sms",
+    "content": "Your ride receipt is ready."
+  },
+  {
+    "timestamp": "2026-04-14T08:05:00Z",
+    "source": "notion",
+    "content": "Aarav prefers meeting agendas in the invite, especially when the meeting is with customer stakeholders."
+  },
+  {
+    "timestamp": "2026-04-14T09:15:00Z",
+    "source": "slack",
+    "content": "#legal Priya: Circle back after Southridge accepts clause 8 so we can file the final SOW."
+  },
+  {
+    "timestamp": "2026-04-14T09:18:00Z",
+    "source": "chrome_extension",
+    "content": "Saved link: pricing page for a transcription tool."
+  },
+  {
+    "timestamp": "2026-04-14T10:30:00Z",
+    "source": "calendar",
+    "content": "Southridge SOW negotiation Apr 14 16:00 IST with Priya and legal."
+  },
+  {
+    "timestamp": "2026-04-14T11:32:00Z",
+    "source": "sms",
+    "content": "Your ride receipt is ready."
+  },
+  {
+    "timestamp": "2026-04-14T13:20:00Z",
+    "source": "whatsapp",
+    "content": "Ravi: Sending the meme here because Slack reactions are not enough."
+  },
+  {
+    "timestamp": "2026-04-14T19:39:00Z",
+    "source": "slack",
+    "content": "#random Maya: The projector remote vanished again."
+  },
+  {
+    "timestamp": "2026-04-14T21:14:00Z",
+    "source": "slack",
+    "content": "#random Nina: Which room has the least aggressive air conditioning?"
+  },
+  {
+    "timestamp": "2026-04-15T02:13:00Z",
+    "source": "slack",
+    "content": "#random Nina: Which room has the least aggressive air conditioning?"
+  },
+  {
+    "timestamp": "2026-04-15T04:30:00Z",
+    "source": "calendar",
+    "content": "Interview calibration Apr 15 10:00 IST. Candidate packets depend on the rubric."
+  },
+  {
+    "timestamp": "2026-04-15T05:30:00Z",
+    "source": "calendar",
+    "content": "Q2 launch review Apr 15 11:00 IST. Owner table required."
+  },
+  {
+    "timestamp": "2026-04-15T06:15:00Z",
+    "source": "slack",
+    "content": "#growth Sonal: After Q2 launch review, send the owner table to marketing ops."
+  },
+  {
+    "timestamp": "2026-04-15T07:10:00Z",
+    "source": "whatsapp",
+    "content": "Aarav: Actually don't book the dentist for Thursday morning if the UIE fallout meeting appears."
+  },
+  {
+    "timestamp": "2026-04-15T08:00:00Z",
+    "source": "gmail",
+    "content": "Rhea: If I do not reply to the rubric by Tuesday morning, remind me before the hiring sync."
+  },
+  {
+    "timestamp": "2026-04-15T12:00:00Z",
+    "source": "calendar",
+    "content": "Parent-teacher call for Pari Apr 15 17:30 IST. Karan cannot cover pickup."
+  }
+]

@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.json
+!memorae_mock_events.json
+results.json
+baseline.json
+.DS_Store
